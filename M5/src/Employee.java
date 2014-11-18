@@ -47,7 +47,7 @@ public class Employee {
     */
    public void setSalary(double salary) {
       mySalary = salary;
-      // He afegit un comentari
+      // Versio 4
    }
    /**
     * Mètode que retorna la informació del treballador, el seu nom i el seu salari.
